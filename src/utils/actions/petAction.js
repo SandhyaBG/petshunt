@@ -1,0 +1,1 @@
+export const UPDATE_PETS_LIST = 'Update_Pets_List';
